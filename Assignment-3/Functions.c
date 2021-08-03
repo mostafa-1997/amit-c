@@ -1,3 +1,12 @@
+/*
+Implement a program that takes from user two numbers and pass them to a void
+function called swap.
+This function receive the two numbers in two variables x and y and print the two
+variables then swap their values and Print x and y again after swapping.
+
+$$$$$Do not use a third variable inside the function.$$$$
+*/
+
 #include<stdio.h>
 
 //Global Variables
