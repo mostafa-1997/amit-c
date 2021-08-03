@@ -1,3 +1,8 @@
+/*
+Implement a calculator program that asks the user to enter a mathematical operator
+[ + or
+or * or / ] then enter number_1 and number_2 and display the result.
+*/
 #include<stdio.h>
 
 int main(){
