@@ -1,3 +1,16 @@
+/*
+Write a program that ask the user to enter 5 numbers and store it in array called arr_1
+using for loop
+Then print the following :
+-
+Print the 5 elements of arr_1
+-
+The maximum number in arr_1 and its position in array
+-
+The minimum number in arr_1 and its position in array
+
+$$$Sort elements of array in ascending order$$$
+*/
 #include<stdio.h>
 //Function Prototypes
 void scanArrayValues(int arr[],int);
