@@ -1,0 +1,1 @@
+void ErrorLog_Log(void);
