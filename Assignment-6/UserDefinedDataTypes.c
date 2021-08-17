@@ -1,3 +1,16 @@
+/*
+Create a data base for 5 students in a school using array of structs,
+each struct contain 4 members :
+Student name
+Student age
+Student degree
+Student section
+Fill the data inside main function and print it.
+$$$Fill all the data inside the main function and Pass the address of the array to a void
+function called print.
+Then print all the data inside print function.$$$
+*/
+
 #include<stdio.h>
 
 typedef struct student
