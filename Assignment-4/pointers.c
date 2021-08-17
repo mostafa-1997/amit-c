@@ -1,3 +1,11 @@
+/*
+Write a program that ask you to enter a value of a variable int x.
+Pass the address of x to a function called edit.
+Increment the value of x by 1 inside the function.
+Print the value of x in the main function before and after calling the function edit.
+$$$$Store these numbers [5,20,80] inside x without overwriting. then print them.$$$$
+*/
+
 #include<stdio.h>
 int x;
 
